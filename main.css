@@ -1,0 +1,44 @@
+body {
+    background-color:#359685;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding-top: 5%;
+}
+
+h2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: larger;
+    list-style: upper-roman;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
